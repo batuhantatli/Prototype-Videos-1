@@ -1,4 +1,4 @@
-Game Prototype's for GAMES MRKT Company. (February 2021 - April 2022)
+<h1>Game Prototype's for GAMES MRKT Company. (February 2021 - April 2022) <h1>
 
 https://user-images.githubusercontent.com/65722870/172621029-f89f5a34-f11c-46cb-9adb-5443b7b157d0.mp4
 
